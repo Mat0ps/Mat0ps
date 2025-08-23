@@ -182,5 +182,5 @@ I've led company-wide DevOps initiatives, partnered closely with development tea
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+Feel+free+to+connect+%F0%9F%9A%80" alt="Thanks Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5B33F7FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+Feel+free+to+connect+%F0%9F%9A%80" alt="Thanks Message" />
 </div>
