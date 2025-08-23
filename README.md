@@ -1,4 +1,8 @@
-# ⚡ Hello World! I'm Matan Amiel
+
+<div align="center">
+  # ⚡ Hello World! I'm Matan Amiel
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Tech+Writer;CI%2FCD+Wizard" alt="Typing SVG" />
@@ -11,16 +15,13 @@
 </div>
 
 
-## 🚀 About Me
-
 <div align="center">
+## 🚀 About Me
   <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
-</div>
 
 
 I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
-
-
+</div>
 
 ## ⚡ Core Skills
 
@@ -172,10 +173,6 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
-
-<p>
-  <strong>📧 Reach out for:</strong> Technical discussions • Consulting opportunities • Speaking engagements • Open source contributions
 </p>
 
 </div>
