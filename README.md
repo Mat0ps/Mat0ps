@@ -5,10 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=kubernetes" alt="DevOps Engineer" />
-  <img src="https://img.shields.io/badge/Cloud-Native-green?style=for-the-badge&logo=aws" alt="Cloud Native" />
-  <img src="https://img.shields.io/badge/Tech-Writer-purple?style=for-the-badge&logo=medium" alt="Tech Writer" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Expert-red?style=for-the-badge&logo=githubactions" alt="CI/CD Expert" />
+    
+  [![DevOps Engineer | Cloud | Tech Writer | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Tech_Writer_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/Mat0ps)
+
 </div>
 
 ---
