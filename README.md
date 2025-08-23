@@ -10,13 +10,13 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
 I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
 
----
+
 
 ## ⚡ Core Skills
 
@@ -55,7 +55,7 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 
 </div>
 
----
+
 
 ## 📝 Latest Blog Posts
 
@@ -125,7 +125,7 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
   </table>
 </div>
 
----
+
 
 <div align="center">
 
@@ -176,13 +176,13 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 
 </div>
 
----
+
 
 <div align="center">
   <p><em>"The best infrastructure is the one you never have to think about... until it's 3 AM and you're getting paged." 😴☁️</em></p>
 </div>
 
----
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+Feel+free+to+connect+%F0%9F%9A%80" alt="Thanks Message" />
