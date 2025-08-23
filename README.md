@@ -8,7 +8,7 @@
     
   [![DevOps Engineer | Cloud | Tech Writer | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Tech_Writer_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/Mat0ps)
 
- <img src="https://imgur.com/a/JnAKid6" alt="Mat0ps DevOps Banner" width="800px">
+ <img src="[https://imgur.com/a/JnAKid6](https://i.imgur.com/8EztbWb.png)" alt="Mat0ps DevOps Banner" width="800px">
 </div>
 
 
