@@ -1,7 +1,9 @@
 
-<div align="center">
+<center>
+
   # ⚡ Hello World! I'm Matan Amiel
-</div>
+  
+</center>
 
 
 <div align="center">
