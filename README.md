@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Tech+Writer;CI%2FCD+Wizard" alt="Typing SVG" />
 </div>
 
-<div align="center">
-    
-  [![DevOps Engineer | Cloud | Tech Writer | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Tech_Writer_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/Mat0ps)
-
-</div>
-
 
 # <div align="center">About Me</div>
 
@@ -18,7 +12,11 @@
 <div align="center">
   <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
 </div>
+<div align="center">
+    
+  [![DevOps Engineer | Cloud | Tech Writer | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Tech_Writer_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/Mat0ps)
 
+</div>
 <div align="center">
 I'm experienced in building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
 </div>
