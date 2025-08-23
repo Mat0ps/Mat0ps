@@ -12,26 +12,18 @@
 </div>
 
 
-<center>
+# <div align="center"> 🚀 About Me</div>
 
-## 🚀 About Me
-
-</center>
 
 <div align="center">
   <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
 </div>
 
 <div align="center">
-I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
+I'm experienced in building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
 </div>
 
-
-<center>
-
-## ⚡ Core Skills
-
-</center>
+# <div align="center"> ⚡ Core Skills</div>
 
 <div align="center">
 
@@ -68,13 +60,7 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 
 </div>
 
-
-
-<center>
-
-## 📝 Latest Blog Posts
-
-</center>
+# <div align="center"> 📝 Latest Blog Posts</div>
 
 <div align="center">
   <a href="https://medium.com/@mattan.amiel" target="_blank">
@@ -144,9 +130,9 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 
 
 
-<div align="center">
+# <div align="center"> 🤝 Let's Connect & Collaborate</div>
 
-## 🤝 Let's Connect & Collaborate
+<div align="center">
 
 <p><em>💬 Always open to discussing DevOps, cloud architecture, and innovative tech solutions!</em></p>
 
