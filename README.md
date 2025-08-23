@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
+  <img src="https://i.imgur.com/KLB2pOY.jpeg" alt="Mat0ps DevOps Banner" width="800px">
 </div>
 <div align="center">
     
