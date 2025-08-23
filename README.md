@@ -11,9 +11,12 @@
 </div>
 
 
-  <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
-
 ## 🚀 About Me
+
+<div align="center">
+  <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
+</div>
+
 
 I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
 
