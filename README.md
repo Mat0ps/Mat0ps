@@ -12,7 +12,7 @@
 </div>
 
 
-# <div align="center"> 🚀 About Me</div>
+# <div align="center">About Me</div>
 
 
 <div align="center">
@@ -60,7 +60,7 @@ I'm experienced in building CI/CD pipelines, managing AWS cloud infrastructure, 
 
 </div>
 
-# <div align="center"> 📝 Latest Blog Posts</div>
+# <div align="center">Latest Blog Posts</div>
 
 <div align="center">
   <a href="https://medium.com/@mattan.amiel" target="_blank">
@@ -130,7 +130,7 @@ I'm experienced in building CI/CD pipelines, managing AWS cloud infrastructure, 
 
 
 
-# <div align="center"> 🤝 Let's Connect & Collaborate</div>
+# <div align="center">Let's Connect & Collaborate</div>
 
 <div align="center">
 
