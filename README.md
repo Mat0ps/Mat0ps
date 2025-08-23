@@ -18,7 +18,8 @@
 
 </div>
 <div align="center">
-I'm experienced in building CI/CD pipelines, managing AWS cloud infrastructure, and running Kubernetes environments. I lead company-wide DevOps initiatives and build scalable, secure systems through automation-driven practices.
+hands-on experience designing CI/CD pipelines, managing cloud infrastructure on AWS, and orchestrating containerized environments using Kubernetes. 
+I've led company-wide DevOps initiatives, partnered closely with development teams, and delivered scalable, resilient systems across diverse environments. Constantly learning, automating, and passionate about solving real-world engineering challenges especially through powerful DevOps tooling.
 </div>
 
 # <div align="center"> ⚡ Core Skills</div>
