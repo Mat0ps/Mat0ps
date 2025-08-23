@@ -15,9 +15,11 @@
 </div>
 
 
-<div align="center">
+<center>
+
 ## 🚀 About Me
-</div>
+
+</center>
 
 <div align="center">
   <img src="https://i.imgur.com/8EztbWb.png" alt="Mat0ps DevOps Banner" width="800px">
@@ -28,9 +30,11 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 </div>
 
 
-<div align="center">
+<center>
+
 ## ⚡ Core Skills
-</div>
+
+</center>
 
 <div align="center">
 
@@ -69,9 +73,11 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 
 
 
-<div align="center">
+<center>
+
 ## 📝 Latest Blog Posts
-</div>
+
+</center>
 
 <div align="center">
   <a href="https://medium.com/@mattan.amiel" target="_blank">
@@ -163,13 +169,13 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
       <br>
       <small>💼 <strong>Professional Network</strong><br>Connect for DevOps opportunities & insights</small>
     </td>
-    <td align="center" width="33%">
-      <a href="https://medium.com/@mattan.amiel" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-      </a>
-      <br>
-      <small>✍️ <strong>Technical Writing</strong><br>Latest articles on DevOps & cloud tech</small>
-    </td>
+          <td align="center" width="33%">
+        <a href="https://medium.com/@mattan.amiel" target="_blank">
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+        </a>
+        <br>
+        <small>✍️ <strong>Technical Writing</strong><br>Latest articles on DevOps & cloud tech</small>
+      </td>
   </tr>
 </table>
 
@@ -178,7 +184,6 @@ I'm **experienced in** building CI/CD pipelines, managing AWS cloud infrastructu
 <p>
   <strong>🎯 Looking for collaboration on:</strong><br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
