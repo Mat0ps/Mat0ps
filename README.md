@@ -22,7 +22,7 @@ hands-on experience designing CI/CD pipelines, managing cloud infrastructure on 
 I've led company-wide DevOps initiatives, partnered closely with development teams, and delivered scalable, resilient systems across diverse environments. Constantly learning, automating, and passionate about solving real-world engineering challenges especially through powerful DevOps tooling.
 </div>
 
-# <div align="center"> ⚡ Core Skills</div>
+# <div align="center">Core Skills</div>
 
 <div align="center">
 
